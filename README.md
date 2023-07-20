@@ -2,7 +2,7 @@
 
 # Muhammad Amin Ghias
 
-### A graduate data science student having expertise in Supervised Machhine Learning, Un-Supervised Machhine Learning, Deep Learning
+### A graduate data science student having expertise in Supervised Machine Learning, Un-Supervised Machine Learning, Deep Learning
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=aminghias)](https://github.com/ryo-ma/github-profile-trophy)
 
